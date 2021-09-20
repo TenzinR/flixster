@@ -39,7 +39,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/z90ROfw.gif)" width=250><br>
+![ezgif-2-ac9d0b7a250f](https://user-images.githubusercontent.com/70527398/132998621-89e8b0f9-2aa2-40a7-a334-7544f005dbcd.gif)
 
 ### Notes
 Describe any challenges encountered while building the app.
